@@ -1,10 +1,9 @@
-﻿Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MasterDetailGrids", "MasterDetailGrids\MasterDetailGrids.vbproj", "{7D2B2BFF-F872-40C4-921E-B9269DAF4931}"
-	ProjectSection(WebsiteProperties) = preProject
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.Debug = "False"
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BCBDA70-6316-4FF8-9981-DEC21D974402}
 	EndGlobalSection
 EndGlobal
